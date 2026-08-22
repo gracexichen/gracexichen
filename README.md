@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I%27m%20Grace%20Chen%20%E2%99%AA(^%E2%88%87^*)&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gracexchen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gracechen052125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -10,7 +11,7 @@
 ## About Me
 
 <p align="left">
-Hi, I'm Grace and a recent graduate from UC Davis. I've completed a couple of internships where I worked mostly with Python scripting and full-stack development using TypeScript frameworks. Right now I'm focused on expanding my skill set, diving deeper into design patterns, cloud technologies, and cybersecurity. Please reach out for software engineering opportunities or if you just want to chat!
+Hi, I'm Grace and a recent graduate from University of California, Davis majoring in Computer Science. I've completed a couple of internships where I worked mostly with Python scripting and full-stack development using TypeScript frameworks. Right now I'm focused on expanding my skill set, diving deeper into design patterns, cloud technologies, and cybersecurity. Please reach out for software engineering opportunities or if you just want to chat!
 </p>
 
 ## Tech Stack
@@ -40,17 +41,5 @@ Hi, I'm Grace and a recent graduate from UC Davis. I've completed a couple of in
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracexichen&theme=tokyonight" />
 </div>
-
-## Connect with Me
-
-<div align="center">
-
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
