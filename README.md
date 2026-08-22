@@ -35,11 +35,4 @@ Hi, I'm Grace and a recent graduate from University of California, Davis majorin
 </div>
 
 </div>
-<br/>
-
-## GitHub Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gracexichen&theme=tokyonight" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
