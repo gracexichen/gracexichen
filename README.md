@@ -11,7 +11,7 @@
 ## About Me
 
 <p align="left">
-Hi, I'm Grace and a recent graduate from University of California, Davis majoring in Computer Science. I've completed a couple of internships where I worked mostly with Python scripting and full-stack development using TypeScript frameworks. Right now I'm focused on expanding my skill set, diving deeper into design patterns, cloud technologies, and cybersecurity. Please reach out for software engineering opportunities or if you just want to chat!
+Hi, I'm Grace and a recent graduate from University of California, Davis majoring in Computer Science. I've completed a couple of internships where I worked mostly with Python scripting and full-stack development using TypeScript frameworks. Right now I'm focused on expanding my skill set. Please reach out for software engineering opportunities or if you just want to chat!
 </p>
 
 ## Tech Stack
